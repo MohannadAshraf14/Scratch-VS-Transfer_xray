@@ -27,7 +27,6 @@ To explore and compare the performance of CNNs trained from scratch versus those
 | CNN from Scratch | 98%      | 0.04     |
 | Transfer Learning| 99%      | 0.04     |
 
-(Update table with actual values)
 
 ## 📈 Visualizations
 - Training/validation accuracy and loss curves
